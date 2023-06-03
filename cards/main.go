@@ -5,16 +5,8 @@ import (
 )
 
 func main() {
-	cards := deck.Deck{
-		newCard(),
-		"Ace of diamonds",
-	}
-	cards = append(cards, "Six of Spades")
+	cards := deck.NewDeck()
 
 	cards.Print()
 
-}
-
-func newCard() string {
-	return "Five of Diamonds"
 }
