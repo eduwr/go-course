@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": "cards"
+    },
+    {
+      "path": "even-n-odd"
+    },
+    {
+      "path": "hello"
+    },
+    {
+      "path": "maps"
+    },
+    {
+      "path": "structs"
+    },
+    {
+      "path": "interfaces"
+    }
+  ],
+  "settings": {}
+}
