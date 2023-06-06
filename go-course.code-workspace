@@ -19,5 +19,9 @@
       "path": "interfaces"
     }
   ],
-  "settings": {}
+  "settings": {
+    "conventionalCommits.scopes": [
+      "interfaces"
+    ]
+  }
 }
